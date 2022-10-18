@@ -1,4 +1,4 @@
-# Default values for Sysdig Monitor and Secure Helm package.
+# Default values for Sysdig Monitor and Secure Helm package.##
 
 image:
   registry: docker.io
